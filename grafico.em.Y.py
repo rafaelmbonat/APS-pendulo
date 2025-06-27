@@ -25,6 +25,3 @@ plt.legend()
 # Mostrando o gráfico
 plt.tight_layout()  # Ajusta o layout para evitar cortes
 plt.show()
-
-# Opcional: Salvar o gráfico em um arquivo (descomente a linha abaixo)
-# plt.savefig('grafico_posicao_x_vs_tempo.png', dpi=300)
